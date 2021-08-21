@@ -3,6 +3,8 @@ from time import sleep
 
 username = 'razeed_rz@hotmail.com'
 password = 'Jm0908'
+username = 'azhaarm94@gmail.com'
+password = 'azhaar354'
 
 class QL_Bot():
     def __init__(self):
