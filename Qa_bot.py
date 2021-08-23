@@ -1,8 +1,6 @@
 from selenium import webdriver
 from time import sleep
 
-username = 'razeed_rz@hotmail.com'
-password = 'Jm0908'
 username = 'azhaarm94@gmail.com'
 password = 'azhaar354'
 
